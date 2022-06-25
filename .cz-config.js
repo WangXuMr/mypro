@@ -9,10 +9,6 @@ module.exports = {
     name: 'fix: 修复'
   },
   {
-    value: 'fix',
-    name: 'fix: 修复'
-  },
-  {
     value: 'docs',
     name: 'docs: ⽂档变更'
   },
