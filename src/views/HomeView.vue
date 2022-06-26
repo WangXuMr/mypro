@@ -13,6 +13,7 @@ export default {
   name: 'HomeViewww',
   components: {
     HelloWorld
-  }
+  },
+  methods: {}
 }
 </script>
